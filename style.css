@@ -384,8 +384,9 @@ main ,
 
     .text-form, 
     .boxn {
-        width: 95% !important;  
-        padding: 20px;          
+        width: auto !important;  
+        padding: 20px;
+        padding-left: 10px;
         max-width: none;        
     }
 
