@@ -23,7 +23,8 @@ main ,
 .header{
     justify-content: space-between;
     align-items: center;
-    padding: 10px 50px;
+    padding-top:10px;
+    padding-bottom:10px;
     border-radius:0 0 25px 25px;
     background-color: #594b30db ;
     display: flex;
@@ -131,7 +132,7 @@ main ,
     background-color: #2f2c0f75;
     color: #cec7ab;
     text-align: center;
-    padding: 20px;
+    padding: 20px 0px;
     position: relative;
     bottom: 0;
     width: 100%;
